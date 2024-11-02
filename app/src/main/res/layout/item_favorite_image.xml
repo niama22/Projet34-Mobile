@@ -1,0 +1,22 @@
+<!-- item_favorite_image.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="267dp"
+        android:layout_height="129dp"
+        android:scaleType="centerCrop" />
+
+    <ImageButton
+        android:id="@+id/buttonRemove"
+        android:layout_width="43dp"
+        android:layout_height="44dp"
+        android:layout_gravity="center_vertical"
+        android:background="?android:attr/selectableItemBackground"
+        android:contentDescription="Remove from favorites"
+        android:src="@android:drawable/ic_menu_delete" />
+</LinearLayout>
