@@ -32,7 +32,7 @@ Le projet utilise l'architecture **MVVM (Model-View-ViewModel)**, ce qui permet 
 
 ## Auteur
 
-- **Nom** : Sakhr niama
+- **Sakhr niama**
 
 
 ## Prérequis
