@@ -1,4 +1,4 @@
-# Dog Images App 🐶
+git commit -m "first commit"# Dog Images App 🐶
 
 **Dog Images App** est une application Android qui permet aux utilisateurs de parcourir des images de chiens provenant d'une API, de les ajouter aux favoris, de les partager, et de gérer une liste de favoris localement.
 
