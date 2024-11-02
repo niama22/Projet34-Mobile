@@ -1,4 +1,4 @@
-# Dog Images App 🐶
+# Dog gallery App 🐶
 
 **Dog gallery** est une application Android qui permet aux utilisateurs de parcourir des images de chiens provenant d'une API, de les ajouter aux favoris, de les partager, et de gérer une liste de favoris localement.
 
@@ -27,7 +27,7 @@ Le projet utilise l'architecture **MVVM (Model-View-ViewModel)**, ce qui permet 
 - **Coil** : Pour le chargement rapide et le cache des images.
 
 ## Encadré par :
-Pr.M.LACHGAR
+- **Pr.M.LACHGAR**
 
 
 ## Auteur
